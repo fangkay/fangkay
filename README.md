@@ -12,7 +12,11 @@ Currently I'm open for new opportunities to start my development journey!
 - 👟 In my spare time I'm working on my own personal project called TrueToSize, a platform centered around sneaker sizing.
 - 🔎 I'm interested in E-commerce, lifestyle goods and productivity apps
 - 🎮 Avid (board)gamer from time to time
- - 📬 Shoot me an email at fangkay28@gmail.com
+- 📬 Shoot me an email at fangkay28@gmail.com
+ 
+![Fangkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangkay&theme=github_dark&show_icons=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fangkay&theme=github_dark&layout=compact"/>
 
 <!--
 **fangkay/fangkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
