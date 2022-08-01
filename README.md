@@ -6,7 +6,7 @@
 
 My name is Fangkay Wu and I'm a Full-Stack Developer with a background in UX/UI.
 
-Currently I'm open for new opportunities to start my development journey!
+I'm open for new opportunities to start my development journey!
 
 - 👶 Born and raised in the Netherlands
 - 👟 In my spare time I'm working on my own personal project called TrueToSize, a platform centered around sneaker sizing.
