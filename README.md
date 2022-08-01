@@ -2,9 +2,9 @@
 
 <!-- <img src="https://images.wallpapersden.com/image/download/akira-1988-anime_a25sZmiUmZqaraWkpJRobWllrWdma2U.jpg"/> -->
 
-### Hi there 👋
+# Hi there! 👋
 
-My name is Fangkay Wu and I'm a Full-Stack Developer with a background in UX/UI.
+## My name is Fangkay Wu and I'm a Full-Stack Developer with a background in UX/UI.
 
 I'm open for new opportunities to start my development journey!
 
